@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "devices": {
+    "SPECTERRA_300_SOLAR": {
+      "latest_version": "1.0.1",
+      "firmware": {
+        "c2": "https://raw.githubusercontent.com/twinstarkr-support/Specterra-firmware/main/300_solar_v1.0.1.bin"
+      }
+    },
+    "SPECTERRA_450_SOLAR": {
+      "latest_version": "1.0.1",
+      "firmware": {
+        "c2": "https://raw.githubusercontent.com/twinstarkr-support/Specterra-firmware/main/450_solar_v1.0.1.bin"
+      }
+    },
+    "SPECTERRA_600_SOLAR": {
+      "latest_version": "1.0.1",
+      "firmware": {
+        "c2": "https://raw.githubusercontent.com/twinstarkr-support/Specterra-firmware/main/600_solar_v1.0.1.bin"
+      }
+    },
+    "SPECTERRA_900_SOLAR": {
+      "latest_version": "1.0.1",
+      "firmware": {
+        "c2": "https://raw.githubusercontent.com/twinstarkr-support/Specterra-firmware/main/900_solar_v1.0.1.bin"
+      }
+    },
+    "SPECTERRA_300_UV": {
+      "latest_version": "1.0.0",
+      "firmware": {
+        "c2": "https://raw.githubusercontent.com/twinstarkr-support/Specterra-firmware/main/300_uv_v1.0.0.bin"
+      }
+    },
+    "SPECTERRA_450_UV": {
+      "latest_version": "1.0.0",
+      "firmware": {
+        "c2": "https://raw.githubusercontent.com/twinstarkr-support/Specterra-firmware/main/450_uv_v1.0.0.bin"
+      }
+    },
+    "SPECTERRA_600_UV": {
+      "latest_version": "1.0.0",
+      "firmware": {
+        "c2": "https://raw.githubusercontent.com/twinstarkr-support/Specterra-firmware/main/600_uv_v1.0.0.bin"
+      }
+    },
+    "SPECTERRA_900_UV": {
+      "latest_version": "1.0.0",
+      "firmware": {
+        "c2": "https://raw.githubusercontent.com/twinstarkr-support/Specterra-firmware/main/900_uv_v1.0.0.bin"
+      }
+    }
+  }
+}
