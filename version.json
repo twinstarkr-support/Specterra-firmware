@@ -124,9 +124,9 @@
     "SPECTERRA_900_UV": {
       "hw": {
         "1": {
-          "latest_version": "1.1.1",
+          "latest_version": "1.0.0",
           "firmware": {
-            "c2": "https://raw.githubusercontent.com/twinstarkr-support/Specterra-firmware/main/900_uv_hw1_v1.1.1.bin"
+            "c2": "https://raw.githubusercontent.com/twinstarkr-support/Specterra-firmware/main/900_uv_hw1_v1.0.0.bin"
           }
         },
         "2": {
