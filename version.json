@@ -4,9 +4,9 @@
     "SPECTERRA_300_SOLAR": {
       "hw": {
         "1": {
-          "latest_version": "1.0.1",
+          "latest_version": "1.1.1",
           "firmware": {
-            "c2": "https://raw.githubusercontent.com/twinstarkr-support/Specterra-firmware/main/300_solar_hw1_v1.0.1.bin",
+            "c2": "https://raw.githubusercontent.com/twinstarkr-support/Specterra-firmware/main/300_solar_hw1_v1.1.1.bin",
             "c3": "https://raw.githubusercontent.com/twinstarkr-support/Specterra-firmware/main/300_solar_hw1_v1.0.1.bin"
           }
         },
@@ -22,9 +22,9 @@
     "SPECTERRA_450_SOLAR": {
       "hw": {
         "1": {
-          "latest_version": "1.0.1",
+          "latest_version": "1.1.1",
           "firmware": {
-            "c2": "https://raw.githubusercontent.com/twinstarkr-support/Specterra-firmware/main/450_solar_hw1_v1.0.1.bin",
+            "c2": "https://raw.githubusercontent.com/twinstarkr-support/Specterra-firmware/main/450_solar_hw1_v1.1.1.bin",
             "c3": "https://raw.githubusercontent.com/twinstarkr-support/Specterra-firmware/main/450_solar_hw1_v1.0.1.bin"
           }
         },
@@ -40,9 +40,9 @@
     "SPECTERRA_600_SOLAR": {
       "hw": {
         "1": {
-          "latest_version": "1.0.1",
+          "latest_version": "1.1.1",
           "firmware": {
-            "c2": "https://raw.githubusercontent.com/twinstarkr-support/Specterra-firmware/main/600_solar_hw1_v1.0.1.bin",
+            "c2": "https://raw.githubusercontent.com/twinstarkr-support/Specterra-firmware/main/600_solar_hw1_v1.1.1.bin",
             "c3": "https://raw.githubusercontent.com/twinstarkr-support/Specterra-firmware/main/600_solar_hw1_v1.0.1.bin"
           }
         },
@@ -58,9 +58,9 @@
     "SPECTERRA_900_SOLAR": {
       "hw": {
         "1": {
-          "latest_version": "1.0.1",
+          "latest_version": "1.1.1",
           "firmware": {
-            "c2": "https://raw.githubusercontent.com/twinstarkr-support/Specterra-firmware/main/900_solar_hw1_v1.0.1.bin",
+            "c2": "https://raw.githubusercontent.com/twinstarkr-support/Specterra-firmware/main/900_solar_hw1_v1.1.1.bin",
             "c3": "https://raw.githubusercontent.com/twinstarkr-support/Specterra-firmware/main/900_solar_hw1_v1.0.1.bin"
           }
         },
